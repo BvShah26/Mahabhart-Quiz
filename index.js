@@ -46,6 +46,7 @@ const quiz = () => {
 const askAnswer = () => {
     rl.question("\nEnter Your Option Number :: ", (res) => {
        
+        // Fetching index of correct answers
         const index = questions[i].opt.indexOf(questions[i].ans);
         if (index == (res - 1)) {
             console.log("\nYour Answer is Correct...!\nYou Got 5 Score For this Question");
