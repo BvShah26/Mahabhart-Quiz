@@ -1,3 +1,3 @@
 # Mahabhart-Quiz
 Assignment 03
-https://replit.com/@BhavyaShah10/Mahabharat-Quiz#index.js
+[Click Here To Play](https://replit.com/@BhavyaShah10/Mahabharat-Quiz#index.js)
