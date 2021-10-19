@@ -9,4 +9,4 @@
 [Click Here To Play](https://replit.com/@BhavyaShah10/Mahabharat-Quiz#index.js)
 
 # Want To Checkout Code ?
-[Click to Checkput code]()
+[Click to Checkput code](https://github.com/BvShah26/Mahabhart-Quiz/blob/main/index.js)
